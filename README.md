@@ -1,2 +1,2 @@
-# buildfast
-axentx product · A no-code or low-code development platform that enables indie hackers and creators to quickly build and validate software products without extensive technical expertise
+# Project Manager
+A simple project manager that allows users to create new projects from templates or scratch.
